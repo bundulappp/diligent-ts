@@ -1,0 +1,23 @@
+{
+  "name": "diligent-ts",
+  "version": "1.0.0",
+  "description": "- https://www.codewars.com/collections/learning-typescript - https://www.codewars.com/kata/590cb67bc69e3a31d0000042/train/typescript",
+  "main": "index.js",
+  "scripts": {
+   "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal_alias:bundulappp/diligent-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.7.7",
+    "typescript": "^5.6.3"
+  },
+  "bin": {
+  "library": "./dist/index.js"
+ }
+}

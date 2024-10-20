@@ -1,0 +1,26 @@
+#add gitignore for ts cli project
+#https://github.com/Microsoft/TypeScript/wiki/Using-the-IDE
+
+#node_modules
+node_modules
+
+#dist
+dist
+
+#coverage
+coverage
+
+#build
+build
+
+#tsconfig
+tsconfig.json
+
+#tslint
+tslint.json
+
+#tslintignore
+tslintignore
+
+#package-lock.json
+package-lock.json
